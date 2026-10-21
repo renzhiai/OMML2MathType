@@ -1,0 +1,20 @@
+{
+  "input": "E:\\1\\TB2_1_建模流程.docx",
+  "output": "E:\\1\\TB2_1_建模流程.docx",
+  "equations": 33,
+  "converted": 33,
+  "failed": 0,
+  "failures": [],
+  "pages": 19,
+  "body_width": 413.9,
+  "limit": 339.4,
+  "wide": [
+    {
+      "index": 19,
+      "label": "4.14",
+      "width": 420.0
+    }
+  ],
+  "seconds": 55.4,
+  "time": "20261021-083219"
+}
